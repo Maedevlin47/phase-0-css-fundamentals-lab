@@ -1,3 +1,15 @@
+header{
+  text-align: center; 
+}
+a{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#featured-property{
+  text-align: center;
+  font-size: small;
+}
 body {
   width: 100%;
   height: 100%;
